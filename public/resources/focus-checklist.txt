@@ -1,0 +1,6 @@
+Skillora lesson focus checklist
+
+1. What is the main idea from this lesson?
+2. Where could you apply it in a small interface?
+3. What would you test with keyboard navigation?
+4. What question do you still have?

@@ -1,0 +1,5 @@
+Skillora practice brief
+
+Choose one compact product screen, such as a settings panel or course card.
+Sketch the empty, loading, default, selected, and error states.
+Write one sentence explaining the most important user action.

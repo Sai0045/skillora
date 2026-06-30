@@ -1,0 +1,8 @@
+Skillora component audit sheet
+
+Flow audited:
+Repeated components:
+States missing:
+Inconsistent labels:
+Keyboard or focus concerns:
+Smallest useful improvement:

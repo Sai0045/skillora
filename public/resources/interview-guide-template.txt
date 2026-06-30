@@ -1,0 +1,9 @@
+Skillora interview guide template
+
+Research question:
+Participant context:
+Opening prompt:
+Recent behavior prompt:
+Follow-up prompts:
+Closing question:
+Decision this research should support:
